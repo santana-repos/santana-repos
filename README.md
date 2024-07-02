@@ -1,4 +1,3 @@
-# cover-letters
 👋 Greetings! I’m Thiago, a seasoned Software Engineer with a unique blend of expertise in web development and business growth.
 
 Over the course of two decades, I’ve been fortunate to contribute to numerous successful projects across various markets: 
