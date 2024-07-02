@@ -78,5 +78,5 @@ Now, I’m eager to assist you in enhancing your business journey and achieving 
 Let’s join forces and create something extraordinary together!
 
 
-[Github](https://github.com/santana-repos) | [Website](https://codedebtfree.com/) | [Upwork](https://www.upwork.com/freelancers/thiagob9) | [LinkedIn](https://www.linkedin.com/in/thiago-santana-440689a8) | [Calendly](https://calendly.com/thiagosantanaxbr)
+[Website](https://codedebtfree.com/) | [Github](https://github.com/santana-repos) | [Upwork](https://www.upwork.com/freelancers/thiagob9) | [LinkedIn](https://www.linkedin.com/in/thiago-santana-440689a8) | [Calendly](https://calendly.com/thiagosantanaxbr)
 
