@@ -34,11 +34,11 @@ Now, I’m eager to assist you in enhancing your business journey and achieving 
 *Expertises*:
 ☑️ Programming: JS, Java, Golang, Python, Dart, SQL, Batch Script, ANSI C, HTML
 
-- [JS] NodeJs, openapi-backend, axios, aws-serverless, express
+- [JS] NodeJs, openapi-backend, axios, aws-serverless, express, Jest, Supertest
 
 - [Java] Quarkus, SpringBoot, Cucumber, Junit5, Java EE, Spring, Jmeter, ActiveMQ, Hibernate, Orika, Struts and more
 
-- [Golang] GoGiber, Go Cobra
+- [Golang] GoFiber, Go Cobra
 
 - [Python] flask_express, Flask, Django, Connexion
 
