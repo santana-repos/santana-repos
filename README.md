@@ -1,6 +1,4 @@
-👋 Greetings! I’m Thiago, a seasoned Software Engineer with a unique blend of expertise in web development and business growth.
-
-Over the course of two decades, I’ve been fortunate to contribute to numerous successful projects across various markets: 
+👋 Greetings! I'm Thiago, an expert in software engineering with over two decades of experience in web development and business growth, having contributed to successful projects across diverse markets: 
 
 - *Open Insurance*: I collaborated with Itau Seguros and to the Open Insurance Brazil partnership, working with technical specialist teams to improve the ‘quote patrimonial’ OpenAPI3 specification. This made it easier for participating companies to implement it, showcasing my understanding of API-first design principles.
 
@@ -22,13 +20,13 @@ Now, I’m eager to assist you in enhancing your business journey and achieving 
 
 ☑️ AWS Certified Cloud Practitioner
 
-☑️  Google Cloud's Apigee API Platform
+☑️ Google Cloud's Apigee API Platform
 
-☑️ ISO 27001 Security Associate
+☑️ ISO 27001 Security
 
 ☑️ Mulesoft-API Design
 
-☑️ Mulesoft-Integration/API Associate  
+☑️ Mulesoft-Integration and API  
 
 
 *Expertises*:
