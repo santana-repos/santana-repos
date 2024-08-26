@@ -1,6 +1,6 @@
 👋 Greetings! I'm Thiago, an expert in software engineering with over two decades of experience in software development and business growth. I specialize in delivering robust, secure, and scalable solutions that meet business needs and handle high user demand seamlessly.
 
-Throughout my career, I’ve consistently employed Clean Code, as well as Business and Test Driven Development (BDD and TDD) methodologies, ensuring that every solution is both functional and reliable. My expertise extends to Site Reliability Engineering (SRE) and FinOps/DevOps, where I’ve led teams to improve system performance and optimize costs.
+Throughout my career, I've consistently employed Clean Code, as well as Business and Test Driven Development (BDD and TDD) methodologies, ensuring that every solution is both functional and reliable. My expertise extends to Site Reliability Engineering (SRE) and FinOps/DevOps, where I've led teams to improve system performance and optimize costs.
 
 My main certifications:
 
