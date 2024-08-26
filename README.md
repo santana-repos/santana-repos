@@ -17,6 +17,7 @@ Furthermore, I’ve earned relevant certifications:
 
 
 *Expertises*:
+
 ☑️ Programming: JS, Java, Golang, Python, Dart, SQL, Batch Script, ANSI C, HTML
 
 - [JS] NodeJs, openapi-backend, axios, aws-serverless, express, Jest, Supertest
