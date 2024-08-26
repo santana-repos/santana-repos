@@ -1,9 +1,8 @@
-👋 Greetings! I'm Thiago, an expert in software engineering with over two decades of experience in web development and business growth. Over the course of two decades, I've been involved in numerous successful projects, notably within leading companies across a variety of industries in Worldwide.
-Now, I’m eager to assist you in enhancing your business journey and achieving extraordinary success.
+👋 Greetings! I'm Thiago, an expert in software engineering with over two decades of experience in software development and business growth. I specialize in delivering robust, secure, and scalable solutions that meet business needs and handle high user demand seamlessly.
 
-My professional contributions encompass the implementation of governance artifacts for secure and user-friendly APIs, with a pioneering role in the design of API-first architectures. My skill set spans both frontend and backend development, integrations utilizing various API Platforms, the restructuring of information security applications, and the formulation of DevOps strategies. Furthermore, I have earned relevant certifications in the field.
+Throughout my career, I’ve consistently employed Business and Test Driven Development (BDD and TDD) methodologies, ensuring that every solution is both functional and reliable. My expertise extends to Site Reliability Engineering (SRE) and FinOps/DevOps, where I’ve led teams to improve system performance and optimize costs.
 
-Furthermore, I’ve earned relevant certifications:
+My main certifications:
 
 ☑️ AWS Certified Cloud Practitioner
 
