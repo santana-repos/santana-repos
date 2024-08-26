@@ -59,7 +59,7 @@ My main certifications:
 
 ☑️ OS: Linux, MacOs, Windows
 
-...more at codedebtfree.com/about
+...more at https://www.codedebtfree.com/about
 
 
 Let’s join forces and create something extraordinary together!
