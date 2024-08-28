@@ -53,7 +53,7 @@ My main certifications:
 
 ☑️ Tools: Figma, Miro, Jira, Confluence, Notion, ClickUp, Trello, MS Planner, Shortcut, MS Sharepoint, MS Power Automate
 
-☑️ Dev and Integration Solutions: Kubernetes, Docker, Wiremocks, FakeSMTP, WSL2 env, Elastic Stack, Aws CloudWatch, Grafana, Kibana, Maven, Wordpress
+☑️ Dev and Integration Solutions: Kubernetes, Docker, Kafka (avro), Wiremocks, FakeSMTP, WSL2 env, Elastic Stack, Aws CloudWatch, Grafana, Kibana, Maven, Wordpress
 
 ☑️ HTTP and Application Servers: Apache HTTP, Tomcat, Weblogic, Websphere, JBoss, Nginx 
 
