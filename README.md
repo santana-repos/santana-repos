@@ -4,6 +4,9 @@ Throughout my career, I've consistently employed Clean Code, as well as Business
 
 My main certifications:
 
+
+☑️ AWS Certified Solutions Architect
+
 ☑️ AWS Certified Cloud Practitioner
 
 ☑️ Google Cloud's Apigee API Platform
