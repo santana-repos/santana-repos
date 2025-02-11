@@ -22,13 +22,13 @@ My main certifications:
 
 ☑️ Programming: JS, Java, Golang, Python, Dart, SQL, Batch Script, ANSI C, HTML
 
-- [JS] NodeJs, openapi-backend, axios, aws-serverless, express, Jest, Supertest
+- [JS] NodeJs, openapi-backend, axios, aws-serverless, express, Jest, Supertest and more
 
-- [Java] Quarkus, SpringBoot, Cucumber, Junit5, Java EE, Spring, Jmeter, ActiveMQ, Hibernate, Orika, Struts and more
+- [Java] Quarkus, SpringBoot, Cucumber, Junit5, Spring, Kafka and more
 
-- [Golang] GoFiber, Go Cobra
+- [Golang] GoFiber, Go Cobra, Gin, GORM, Testify and more
 
-- [Python] flask_express, Flask, Django, Connexion
+- [Python] Flask, Django, Pandas, BeautifulSoap Gunicorn, PyTest and more
 
 - [Dart] Flutter V2 + V3
 
@@ -46,7 +46,7 @@ My main certifications:
 
 ☑️ Architectures Styles: Monolithics, Microservices, Pub-Sub Architecture, REST, gRPC, GraphQL
 
-☑️ AI: NLP (Google Dialog Flow)
+☑️ AI: NLP (Google Dialog Flow), GPT (StackSpot, Llma3, DeepSeekV3), RAG based applications in embeddings with VectorDBs (Mistral and Qdrant)
 
 ☑️ Methodologies: SCRUM v2020 - Kanban
 
@@ -56,7 +56,7 @@ My main certifications:
 
 ☑️ Tools: Figma, Miro, Jira, Confluence, Notion, ClickUp, Trello, MS Planner, Shortcut, MS Sharepoint, MS Power Automate
 
-☑️ Dev and Integration Solutions: Kubernetes, Docker, Kafka (avro), Wiremocks, FakeSMTP, WSL2 env, Elastic Stack, Aws CloudWatch, Grafana, Kibana, Maven, Wordpress
+☑️ Dev and Integration Solutions: Kubernetes, Docker, Kafka, Wiremocks, FakeSMTP, WSL2 env, Elastic Stack, Aws CloudWatch, Grafana, Kibana, Maven, Wordpress, Web scraping techniques with python and nodejs tools
 
 ☑️ HTTP and Application Servers: Apache HTTP, Tomcat, Weblogic, Websphere, JBoss, Nginx 
 
