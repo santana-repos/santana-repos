@@ -46,6 +46,8 @@ My main certifications:
 
 ☑️ Architectures Styles: Monolithics, Microservices, Pub-Sub Architecture, REST, gRPC, GraphQL
 
+☑️ RPA automation: openRPA, tagUI, BotCity
+
 ☑️ AI: NLP (Google Dialog Flow), GPT (StackSpot, Llma3, DeepSeekV3), RAG based applications in embeddings with VectorDBs (Mistral and Qdrant)
 
 ☑️ Methodologies: SCRUM v2020 - Kanban
