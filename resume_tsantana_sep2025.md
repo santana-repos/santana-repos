@@ -14,6 +14,20 @@ Specialist Software Engineer with over 15 years of experience designing, buildin
 *   **AI & RPA:** NLP (Google Dialog Flow), GPT (StackSpot, Llma3), RAG, VectorDBs (Mistral, Qdrant), openRPA, BotCity
 *   **Security:** OAuth2, OpenID Connect, JWT, SAML, mTLS, IAM (Keycloak), WAF, SonarQube, Horusec
 
+### EDUCATION
+**Technical Computing in Management Analysis and Systems**
+*Universidade Paulista – UNIP | December 2017 | São Paulo, Brazil*
+
+### CERTIFICATIONS
+☑️ AWS Certified Solutions Architect<br>
+☑️ AWS Certified Cloud Practitioner<br>
+☑️ ISO/IEC 27001 Information Security Associate<br>
+☑️ Google Cloud's Apigee API Platform<br>
+☑️ Mulesoft Integration and API Associate & API Design Associate<br>
+
+### LANGUAGES
+**Portuguese:** Native | **English:** Professional (B2) | **Spanish:** Professional (B2)
+
 ## PROFESSIONAL EXPERIENCE
 ### SPECIALIST SOFTWARE ENGINEER
 *Zup Innovation (client: Itaú Seguros) | September 2021 – Present | São Paulo, Brazil*
@@ -40,17 +54,4 @@ Specialist Software Engineer with over 15 years of experience designing, buildin
 *Disys (client: BNP Paribas Cardif) | April 2015 – May 2017 | São Paulo, Brazil*
 *   Modernized legacy Java payment systems by redesigning Webservices (CXF, Spring) and implementing a new service orchestration layer with Mulesoft, which increased transaction throughput.
 *   Replaced a synchronous logging process with an asynchronous solution using TIBCO, ActiveMQ, and Spring MVC, improving application performance and scalability.
-
-## EDUCATION
-**Technical Computing in Management Analysis and Systems**
-*Universidade Paulista – UNIP | December 2017 | São Paulo, Brazil*
-
-## CERTIFICATIONS
-☑️ AWS Certified Solutions Architect<br>
-☑️ AWS Certified Cloud Practitioner<br>
-☑️ ISO/IEC 27001 Information Security Associate<br>
-☑️ Google Cloud's Apigee API Platform<br>
-☑️ Mulesoft Integration and API Associate & API Design Associate<br>
-
-### LANGUAGES
-**Portuguese:** Native | **English:** Professional (B2) | **Spanish:** Professional (B2)
+<br><br>***…On my [Linkedin](https://www.linkedin.com/in/thiago-santana-440689a8) page, you will discover all my previous years' experiences and more about me and how I can help you :)***|
