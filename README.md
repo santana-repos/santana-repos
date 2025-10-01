@@ -40,6 +40,8 @@ Throughout my career, I've consistently employed Clean Code, as well as Business
 ☑️**Api Platforms**: AWS API Gateway, Sensedia, Mulesoft Anypoint, Google Apigee, Kong, WSO2 Gov.Reg, Tibco BusinessWorks, Oracle SOA Suite
 
 ☑️**Project Tools:** ServiceNow, Figma, Miro, Jira, Confluence, Notion, ClickUp, Trello, MS Planner, Shortcut, Github Pages, MS Sharepoint, MS Power Platform
+
+
 ...more at https://www.codedebtfree.com/about
 
 
