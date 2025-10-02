@@ -9,19 +9,19 @@ Throughout my career, I've consistently employed Clean Code, as well as Business
 ☑️**AI**: Software 3.0, RAG-based applications, AI Agents, Knowledge Sources, Stackspot QuickCommands, MCP, NLP
 
 ☑️**Programming**: Java, JavaScript, Golang, Python, Dart, SQL, Batch Script, ANSI C, HTML  
-\[Java\] Quarkus, Spring (SpringBoot, MVC, Security, Data JPA), Kafka (Avro), Cucumber, and more  
+\[Java (v1.4-v25)\] Quarkus, Spring (SpringBoot, MVC, Security, Data JPA), Kafka (Avro), Cucumber, and more  
 \[JS\] NodeJs, openapi-backend, axios, aws-serverless, express, Jest, Supertest, and more  
 \[Golang\] GoFiber, Go Cobra, Gin, Gorrila, GORM, Testify, and more  
 \[Python\] Flask, Django, Pandas, BeautifulSoap, Gunicorn, PyTest, and more  
 \[Dart\] Flutter V2 \+ V3
 
-☑️**Cloud Platforms**: **AWS**, GCP, Azure, Oracle Cloud, Hostinger, WordPress
+☑️**Cloud Platforms**: AWS, GCP, Azure, Oracle Cloud, Cloudflare, Hostinger, WordPress
 
 ☑️**Platform Engineering**: AWS Well Architected framework, CI/CD (GH Actions, Gitlab, Jenkins), Infra Provisioning via IaC (Terraform, AWS Codebuild and CloudFormation), pipeline TestsAsCode \[TAAC\], observability (AWS CloudWatch, Prometheus, Grafana, Elastic Stack Logstach, Elastic Stack Kibana, DataDog, OpenTelemetry, Splunk), containers orchestration (Docker, Podman, Kubernetes, AWS ECS, AWS EKS, AWS ECR), API infra (AWS API Gateway, Anypoint RuntimeFabric, Anypoint Cloudhub), DNS management (Cloudflare, AWS Route53), hosting, scaling, high availability, networking (AWS EC2, ASG, ELB, SG, VPC), finOps (resources tagging, AWS Budgets & Cost Explorer)
 
 ☑️**DBs**: OracleDB, PostgreSQL, AWS RDS, MongoDB, GCP Firebase, AWS DynamoDB
 
-☑️**ETL and Data Platforms**: Mulesoft Anypoint solutions, AWS Athena, AWS Glue Jobs, AWS S3, AWS Lambda, RethinkDB
+☑️**ETL and Data Platforms**: Spring Batch, Mulesoft Anypoint solutions, AWS Athena, AWS Glue Jobs, AWS S3, AWS Lambda, RethinkDB
 
 ☑️️**Caching**: MemCached, Redis, AWS ElastiCache
 
